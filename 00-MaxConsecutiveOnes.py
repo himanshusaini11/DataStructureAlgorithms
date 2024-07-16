@@ -22,4 +22,4 @@ class Solution:
 if __name__ == "__main__":
     solution = Solution()
     test_case = [1, 1, 0, 1, 1, 1]
-    print(solution.findMaxConsecutiveOnes(test_case))  # Expected output: 3
+    print(solution.findMaxConsecutiveOnes(test_case))
