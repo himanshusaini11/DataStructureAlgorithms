@@ -1,5 +1,5 @@
 # DSA Practice (from LeetCode)
-## 1. Max Consecutive Ones
-## 2. Max Consecutive number given by user
-## 3. Find Numbers with Even Number of Digits
-## 4. Squares of a Sorted Array
+## 00. Max Consecutive Ones
+## 01. Max Consecutive number given by user
+## 02. Find Numbers with Even Number of Digits
+## 04. Squares of a Sorted Array
