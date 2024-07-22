@@ -6,3 +6,4 @@
 ## 04. Duplicate Zeros
 ## 05. Merge Sorted Array
 ## 06. Remove Element
+## 07. Remove Duplicates from Sorted Array
