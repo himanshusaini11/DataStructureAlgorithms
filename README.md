@@ -5,3 +5,4 @@
 ## 03. Squares of a Sorted Array
 ## 04. Duplicate Zeros
 ## 05. Merge Sorted Array
+## 06. Remove Element
