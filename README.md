@@ -7,3 +7,4 @@
 ## 05. Merge Sorted Array
 ## 06. Remove Element
 ## 07. Remove Duplicates from Sorted Array
+## 08. Check If N and Its Double Exist
