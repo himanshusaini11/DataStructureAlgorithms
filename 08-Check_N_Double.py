@@ -51,11 +51,11 @@ start_time = time.time()
 
 class Solution:
     def checkIfExist(self, arr: List[int]) -> bool:
-        checkSet = set()
+        temp = set()
         for i in arr:
-            if i*2 in checkSet or i / 2 in checkSet:
+            if i*2 in temp or i / 2 in temp:
                 return True
-            checkSet.add(i)
+            temp.add(i)
         return False
 
 if __name__ == "__main__":
