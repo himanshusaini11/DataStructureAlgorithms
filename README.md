@@ -12,3 +12,4 @@
 ## 10. Replace Elements with Greatest Element on Right Side
 ## 11. Move Zeroes
 ## 12. Sort Array By Parity
+## 13. Height Checker
