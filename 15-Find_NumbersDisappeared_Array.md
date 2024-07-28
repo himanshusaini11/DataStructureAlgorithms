@@ -1,6 +1,14 @@
 # Problem Statement
 ## Given an array of integers where ```1 ≤ a[i] ≤ n``` (n = size of array), some elements appear twice and others appear once. Find all the elements of ```[1, n]``` inclusive that do not appear in this array.
 
+```
+Constraints:
+
+n == nums.length
+1 <= n <= 105
+1 <= nums[i] <= n
+```
+
 ## Solution Explanation
 
 ### Marking Phase:
