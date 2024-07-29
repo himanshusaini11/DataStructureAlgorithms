@@ -2,6 +2,8 @@
 
 Welcome to the **DataStructureAlgorithms** repository! This project is a comprehensive collection of data structure and algorithm implementations in Python. Whether you're preparing for coding interviews, brushing up on your computer science knowledge, or just looking to improve your problem-solving skills, this repository is designed to help you achieve your goals. 😊
 
+All questions are sourced from [LeetCode](https://leetcode.com/), a platform for preparing technical coding interviews and assessing algorithms.
+
 ## 📂 Directory Structure
 ```
 DataStructureAlgorithms/
