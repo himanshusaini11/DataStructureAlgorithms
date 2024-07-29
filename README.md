@@ -49,9 +49,10 @@ DataStructureAlgorithms/
 
 To get started, simply clone the repository and explore the various Python scripts:
 
-```sh
+~~~sh
 git clone https://github.com/himanshusaini11/DataStructureAlgorithms.git
 cd DataStructureAlgorithms
+~~~
 
 🌟 Contributing
 Contributions are welcome! If you have a better solution or a new problem to add, feel free to fork the repository, make your changes, and open a pull request. Let's learn and grow together! 💪
