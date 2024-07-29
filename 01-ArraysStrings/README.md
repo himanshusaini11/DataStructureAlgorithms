@@ -15,3 +15,9 @@
 ## 13. Height Checker
 ## 14. Third Maximum Number
 ## 15. Find All Numbers Disappeared in an Array
+## 16. String Palindrome
+## 17. Find if given array is sorted
+## 18. Sorted two sum problem
+## 19. Combine two sorted Arrays
+## 20. Is Subsequence
+## 21. Reverse String
