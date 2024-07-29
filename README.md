@@ -3,7 +3,7 @@
 Welcome to the **DataStructureAlgorithms** repository! This project is a comprehensive collection of data structure and algorithm implementations in Python. Whether you're preparing for coding interviews, brushing up on your computer science knowledge, or just looking to improve your problem-solving skills, this repository is designed to help you achieve your goals. 😊
 
 ## 📂 Directory Structure
-
+```
 DataStructureAlgorithms/
 ├── 01-ArraysStrings/
 │ ├── 00-MaxConsecutiveOnes.py
@@ -23,6 +23,7 @@ DataStructureAlgorithms/
 │ ├── 14-ThirdMaximumNumber.py
 │ └── 15-Find_NumbersDisappeared_Array.md
 ├── README.md
+```
 
 ## 🚀 What You'll Find
 
