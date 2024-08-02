@@ -26,3 +26,4 @@
 ## 24-SlidingWindow_NumSubarrays_LessThan_k.py
 ## 25-FixedWindow_FindBestSubarray.py
 ## 26-MaximumAverageSubarray_1.py
+## 27-MaxConsecutiveOnes_3.py
