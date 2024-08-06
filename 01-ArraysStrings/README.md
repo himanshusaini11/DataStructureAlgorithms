@@ -27,3 +27,8 @@
 ## 25-FixedWindow_FindBestSubarray.py
 ## 26-MaximumAverageSubarray_1.py
 ## 27-MaxConsecutiveOnes_3.py
+## 28-PrefixSum.py
+## 29-SubarraySum_Check.py
+## 30-WayToSplitArray.py
+## 31-MinStartValue_Sum.py
+## 32-K_RadiusSubarrayAverages.py
