@@ -72,7 +72,7 @@ def print_linked_list(head):
 
 if __name__ == "__main__":
     solution = Solution()
-    head = create_linked_list([5])
-    temp = solution.reverseBetween(head, left = 1, right = 1)
+    head = create_linked_list([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
+    temp = solution.reverseBetween(head, left = 2, right = 8)
     print (print_linked_list(temp))
     print("The time of execution of the above program is:", (time.time() - start_time) * 10**3, "ms")
