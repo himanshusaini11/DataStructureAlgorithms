@@ -9,7 +9,6 @@ class ListNode:
         self.val = val
         self.next = next
 
-# Leetcode solution.
 class Solution:
     def twinSum(self, head: Optional[ListNode]) -> int : #Optional[ListNode]:
             slow = head
